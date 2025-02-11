@@ -1,5 +1,6 @@
 # Zomato-Restaurants-Data-Analysis Dashboard(Interactive Dashboard using Tableau)
 ## Project Objective
+<br>
 The primary objective of the Zomato Restaurants Data Analysis project in Tableau is to provide a comprehensive and interactive dashboard that offers key insights into the restaurant industry in World. This analysis helps in understanding the distribution of restaurants across cities, popular cuisines, customer ratings, total votes, and booking preferences. By leveraging data visualization, the project enables users to identify trends such as the most restaurant-dense cities, top-rated cuisines, and customer booking behavior (table and online reservations). Additionally, it facilitates data-driven decision-making for restaurant owners, food enthusiasts, and business analysts by showcasing restaurant performance metrics, pricing distribution, and customer preferences, ultimately improving operational strategies and market positioning.
 ## Dataset used
 - <a href="https://github.com/Madhu-D025/Zomato-Restaurants-Data-Analysis/blob/main/zomato.csv">Dataset</a>
@@ -29,6 +30,7 @@ The primary objective of the Zomato Restaurants Data Analysis project in Tableau
 <br>
 <br>
 ## Dashboard-Images
+<br>
 
 ![Screenshot (215)](https://github.com/user-attachments/assets/83075429-ddd6-4f65-a970-5393de70eaf6)
 
@@ -37,4 +39,5 @@ The primary objective of the Zomato Restaurants Data Analysis project in Tableau
 <br>
 <br>
 ## Final Conclusion:
+<br>
 The Zomato Restaurants Data Analysis in Tableau reveals that the restaurant industry in India is highly concentrated in metro cities, with New Delhi leading in restaurant count and customer engagement. North Indian cuisine dominates, and while customer ratings are generally positive, there is scope for improving table booking and online ordering services, as a significant portion of restaurants do not offer these features. Budget-friendly restaurants hold the largest market share, indicating strong demand for affordable dining. The findings suggest that expanding restaurant services in mid-sized cities, enhancing digital booking adoption, and maintaining high service quality can drive growth and improve customer satisfaction in the competitive food industry. 🚀
