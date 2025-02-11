@@ -30,6 +30,7 @@ The primary objective of the Zomato Restaurants Data Analysis project in Tableau
 <br>
 ## Dashboard-Images
 <br>
+<br>
 
 ![Screenshot (215)](https://github.com/user-attachments/assets/83075429-ddd6-4f65-a970-5393de70eaf6)
 
@@ -37,6 +38,7 @@ The primary objective of the Zomato Restaurants Data Analysis project in Tableau
 
 <br>
 <br>
-## Final Conclusion:
+## Final Conclusion
+<br>
 <br>
 The Zomato Restaurants Data Analysis in Tableau reveals that the restaurant industry in India is highly concentrated in metro cities, with New Delhi leading in restaurant count and customer engagement. North Indian cuisine dominates, and while customer ratings are generally positive, there is scope for improving table booking and online ordering services, as a significant portion of restaurants do not offer these features. Budget-friendly restaurants hold the largest market share, indicating strong demand for affordable dining. The findings suggest that expanding restaurant services in mid-sized cities, enhancing digital booking adoption, and maintaining high service quality can drive growth and improve customer satisfaction in the competitive food industry. 🚀
