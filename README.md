@@ -1,6 +1,5 @@
 # Zomato-Restaurants-Data-Analysis Dashboard(Interactive Dashboard using Tableau)
 ## Project Objective
-<br>
 The primary objective of the Zomato Restaurants Data Analysis project in Tableau is to provide a comprehensive and interactive dashboard that offers key insights into the restaurant industry in World. This analysis helps in understanding the distribution of restaurants across cities, popular cuisines, customer ratings, total votes, and booking preferences. By leveraging data visualization, the project enables users to identify trends such as the most restaurant-dense cities, top-rated cuisines, and customer booking behavior (table and online reservations). Additionally, it facilitates data-driven decision-making for restaurant owners, food enthusiasts, and business analysts by showcasing restaurant performance metrics, pricing distribution, and customer preferences, ultimately improving operational strategies and market positioning.
 ## Dataset used
 - <a href="https://github.com/Madhu-D025/Zomato-Restaurants-Data-Analysis/blob/main/zomato.csv">Dataset</a>
